@@ -14,5 +14,5 @@ Goal | Item | Link to Item
 Analysis R Script |  run_analysis.R |  [R Script Link]
 Tidy Data Set |  Clean Data Set |  [Data Set Link]
 Github Repo | Repo |  [Repo Link]
-Cookbook | CodeBook.md |  [Repo Link] (https://github.com/Appyshake/GnCD_CP/blob/main/CodeBook.md)
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/Appyshake/GnCD_CP/blob/main/CodeBook.md)
 README | ReadingItNow |  [Repo Link]
