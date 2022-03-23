@@ -11,7 +11,7 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link]
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Appyshake/GnCD_CP/blob/main/run_analysis.R)
 Tidy Data Set |  Clean Data Set |  [Data Set Link]
 Github Repo | Repo |  [Repo Link]
 CodeBook | CodeBook.md |  [Repo Link](https://github.com/Appyshake/GnCD_CP/blob/main/CodeBook.md)
